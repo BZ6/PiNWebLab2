@@ -1,0 +1,8 @@
+sqlmodel
+asyncpg
+python-dotenv
+aiohttp
+bs4
+requests
+psycopg2-binary
+chardet
